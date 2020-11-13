@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...Learning data science at Lambda
-- 🌱 I’m currently learning ...Machine learning, Data cleansing, Predictive modeling, RNN, Exploratory data analysis
+- 🌱 I’m currently learning ...Machine learning, Data cleansing, Predictive modeling, RNN, Data visualization
 - 📫 How to reach me: ...edwinapalmer17@gmail.com
 - ⚡ Fun fact: ...Cooking, travelling and learning are some of my passions.
 
