@@ -1,4 +1,5 @@
-### Hi there 👋
+I am Edwina Palmer, a resourceful individual with strong research, analytical and collaborative skills and I enjoy learning everything about data science.
+
 - 🔭 I’m currently working on ...Learning data science at Lambda
 - 🌱 I’m currently learning ...Machine learning, Data cleansing, Predictive modeling, RNN, Data visualization
 - 📫 How to reach me: ...edwinapalmer17@gmail.com
